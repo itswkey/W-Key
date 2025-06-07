@@ -60,5 +60,12 @@ a:hover{
     width: 100px;
     background-color:rgba(49, 43, 70, 90%);
     border-radius: 5px;
-    padding: 3px;
-    text-align:center;
+    padding: 10px;
+    margin: 20px;
+    text-align:center;}
+    
+
+    projects-section{
+      padding: 20px;
+      margin:0
+    }
