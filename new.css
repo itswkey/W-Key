@@ -6,6 +6,10 @@ body{
   background-attachment: scroll;
 
 }
+.title{
+  text-align:center;
+  text-decoration:none;
+}
 p{
  margin-top:5px;
  margin-bottom:5px;
@@ -44,7 +48,7 @@ p{
     /* padding:5px; */
 }
 a{
-    
+    /* padding: 20px; */
     text-decoration: underline;
     
      color: rgb(8, 245, 8);;
@@ -52,3 +56,9 @@ a{
 a:hover{
      color: rgb(0, 148, 0);
 }
+.projects{
+    width: 100px;
+    background-color:rgba(49, 43, 70, 90%);
+    border-radius: 5px;
+    padding: 3px;
+    text-align:center;
