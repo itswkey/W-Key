@@ -2,7 +2,7 @@ body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
   padding: 20px;
-}
+/* }
 .home-link{
   font-family:sans-sarif;
   color:brown;
@@ -13,7 +13,17 @@ body {
   margin:50px;
   border: 1px solid rgba(165, 42, 42,85%);
   
-}
+} */
+  .home-link{
+    font-family:sans-sarif;
+    color:brown;
+    padding:7px;
+    border-radius:5px;
+    background-color:rgba(0,0,0,85%);
+    text-decoration:none;
+    margin:50px;
+    border: 1px solid rgba(165,42,42,85%);
+  }
 .home-link:hover{
   color: rgb(126, 14, 14);
 }
