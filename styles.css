@@ -8,11 +8,14 @@ body {
   color:brown;
   padding: 7px;
   border-radius:5px;
-  background-color:rgba(0, 0, 0,85%);
+  background-color:red;
   text-decoration: none;
   margin:50px;
   border: 1px solid rgba(165, 42, 42,85%);
   
+}
+.homme-link a{
+  background-color:brown;
 }
 .home-link:hover{
   color: rgb(126, 14, 14);
