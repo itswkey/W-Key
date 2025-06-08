@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
     padding: 20px;
 }
-.home{
+.home a{
   color:red;
   background-color:brown;
   padding:5px;
