@@ -3,6 +3,9 @@ body {
   font-family: sans-serif;
     padding: 20px;
 }
+.home{
+  background-color:brown;
+}
 
 h1 {
   font-size: 40px;
