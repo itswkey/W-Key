@@ -3,10 +3,15 @@ body {
   font-family: sans-serif;
     padding: 20px;
 }
-.home a{
-  color:red;
-  background-color:brown;
-  padding:5px;
+.home-link{
+  font-family:sans-sarif;
+  color:brown;
+  padding: 7px;
+  border-radius:5px;
+  background-color:rgba(0, 0, 0,85%);
+  text-decoration: none;
+  margin:50px;
+  border: 1px solid rgba(165, 42, 42,85%);
   
   
 }
