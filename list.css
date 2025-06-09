@@ -1,0 +1,17 @@
+body{
+    color: rgb(4, 151, 4);
+    background-color: rgb(0, 0, 0);
+    
+}
+a{
+    color: rgb(0, 97, 0);
+}
+a:hover{
+    color: red;
+}
+a:focus{
+    outline: 1px solid red;
+}
+a:active{
+    color:pink:
+}
